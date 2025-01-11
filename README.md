@@ -31,10 +31,10 @@ I have **5+ years of experience** building user-friendly, scalable, and innovati
 ## 📊 GitHub Stats  
 
 <a href="https://github.com/MHarisU/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MHarisU&theme=dark" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=MHarisU&theme=dark&card_width=320" />
 </a>
 <a href="https://github.com/MHarisU/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MHarisU&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MHarisU&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
 ---
