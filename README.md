@@ -5,6 +5,15 @@ I have **5+ years of experience** building user-friendly, scalable, and innovati
 
 ---
 
+## 📫 Get in Touch  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harisdev/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhunar007@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mharisu.github.io/profile_haris/)
+
+
+---
+
 ## 🚀 Technologies & Tools  
 
 ### **Languages**  
@@ -54,12 +63,5 @@ I have **5+ years of experience** building user-friendly, scalable, and innovati
 
 ---
 
-## 📫 Get in Touch  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harisdev/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhunar007@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mharisu.github.io/profile_haris/)
-
----
 
 
