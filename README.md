@@ -43,7 +43,7 @@ I have **5+ years of experience** building user-friendly, scalable, and innovati
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHarisU&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHarisU&hide_progress=true&theme=dark)
 
 ---
 
