@@ -32,6 +32,48 @@ I have **5+ years of experience** building user-friendly, scalable, and innovati
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MHarisU&layout=compact&theme=radical)
 
+
+<br>
+
+**General:**
+
+* **Contributions in 2025:** 11
+* **Public Repositories:** 13
+* **Joined GitHub:** 6 years ago
+
+<br>
+
+**Contributions Over Time:**
+
+* **Total Contributions:** 21,286
+    * _(Apr 24, 2018 - Present)_
+* **Current Streak:** 5 
+     *  _(Jan 7 - Jan 11)_
+* **Longest Streak:** 76
+    * _(Jan 23, 2023 - Apr 8, 2023)_
+
+<br>
+**Top Languages by Repo:**
+
+  <div style="display: flex;">
+       <div>
+           <ul>
+            <li>JavaScript</li>
+            <li>Python</li>
+            <li>HTML</li>
+             <li>PureBasic</li>
+            <li>Jupyter Notebook</li>
+        </ul>
+       </div>
+       <div>
+       <img width="100" height="100" src="https://raw.githubusercontent.com/mharisu/stats/master/graph/repo_language.png"/>
+</div>
+    </div>
+
+ 
+
+ 
+
 ---
 
 ## 🌟 Achievements  
