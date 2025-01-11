@@ -30,12 +30,7 @@ I have **5+ years of experience** building user-friendly, scalable, and innovati
 
 ![Muhammad Haris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MHarisU&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MHarisU&layout=compact&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHarisU&layout=pie)
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)
 
 ---
 
