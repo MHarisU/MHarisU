@@ -41,6 +41,8 @@ I have **5+ years of experience** building user-friendly, scalable, and innovati
   <img src="https://github-readme-stats.vercel.app/api?username=MHarisU&show_icons=true" />
 </picture>
 
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHarisU&hide_progress=true)
 
 ---
